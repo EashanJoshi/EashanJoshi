@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Data Scientist/Developer/Fitness enthusiast)`**
 
-I'm a Data Scientist having good experience as a Software Developer, building my version of the digital world one step at a time.
+I'm a Data Scientist having a good experience as a Software Developer, building my version of the digital world one step at a time.
 
 ---
 
