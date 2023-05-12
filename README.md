@@ -6,6 +6,14 @@ I'm a Data Scientist having good experience as a Software Developer, building my
 
 ---
 
+### Connect with me 
+
+[<img align="left" alt="EashanLinkedin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />][linkedin]
+[<img align="left" alt="EashanInstagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+
+
+<br />
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -37,3 +45,7 @@ I'm a Data Scientist having good experience as a Software Developer, building my
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+
+[linkedin]: https://www.linkedin.com/in/eashanjoshi
+[instagram]: https://www.instagram.com/shawn_joshi11
