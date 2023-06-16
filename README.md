@@ -38,7 +38,7 @@ I'm a Data Scientist having a good experience as a Software Developer, building 
 
 ### 📊 Stats
 
-![Eashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eashanelliot&show_icons=true&theme=gruvbox)
+![Eashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EashanJoshi&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
