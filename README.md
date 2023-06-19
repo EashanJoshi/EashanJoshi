@@ -46,4 +46,4 @@ I'm a Data Scientist having a good experience as a Software Developer, building 
 
 
 [linkedin]: https://www.linkedin.com/in/eashanjoshi
-[instagram]: https://www.instagram.com/shawn_joshi11
+[instagram]: https://www.instagram.com/ea.shawn_j11
