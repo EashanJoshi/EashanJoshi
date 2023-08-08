@@ -1,4 +1,4 @@
-# Eashan (Shawn) Joshi
+# Eashan Joshi
 
 **`Digital Craftsman (Data Scientist/Developer/Fitness enthusiast)`**
 
