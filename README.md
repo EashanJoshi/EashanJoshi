@@ -1,6 +1,6 @@
 # Eashan Joshi
 
-**`Digital Craftsman (Data Scientist/Developer/Fitness enthusiast)`**
+**`Digital Craftsman (Data Scientist/Software Developer/Fitness enthusiast)`**
 
 As a hybrid Software Engineer and Data Scientist, I apply a unique mix of technical programming and analytical skills. In software development, my expertise lies in:
 
