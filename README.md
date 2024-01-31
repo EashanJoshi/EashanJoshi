@@ -2,7 +2,19 @@
 
 **`Digital Craftsman (Data Scientist/Developer/Fitness enthusiast)`**
 
-I'm a Data Scientist having a good experience as a Software Developer, building my version of the digital world one step at a time.
+As a hybrid Software Engineer and Data Scientist, I apply a unique mix of technical programming and analytical skills. In software development, my expertise lies in:
+
+🔧 Programming Languages: Python, Java, .NET, R, SQL, C#; familiar with C++ and JavaScript.
+
+Transitioning to Data Science, I specialize in:
+
+🔬 ML Libraries: Skilled in Python-based libraries like Scikit-learn, Numpy, Pandas, and Matplotlib; knowledgeable in TensorFlow, NLTK, OpenCV; proficient with Tableau and AWS Services for data visualization and cloud computing.
+
+I have a proven track record in troubleshooting software issues, enhancing performance, and extracting actionable insights from complex datasets. My communication skills enable me to articulate technical concepts to varied audiences effectively.
+
+In addition to my technical skills, my interests in fitness, soccer, singing, and psychology add depth to my professional interactions, fostering empathy and understanding.
+
+📧 Connect with me for innovative solutions in data-driven projects: ej2637@rit.edu | eashanj4@gmail.com
 
 ---
 
