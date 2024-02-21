@@ -2,7 +2,8 @@
 
 **`Digital Craftsman (Data Scientist/Software Developer/Fitness enthusiast)`**
 
-"You know who's a powerhouse data scientist? The one with software engineering chops—a coding gladiator, with both intellectual vigor and athletic muscle, embodying the fusion of tech savvy and raw physical discipline." - Eashan Joshi
+<!--- just
+"You know who's a powerhouse data scientist? The one with software engineering chops—a coding gladiator, with both intellectual vigor and athletic muscle, embodying the fusion of tech savvy and raw physical discipline." - Eashan Joshi --->
 
 As a hybrid Software Engineer and Data Scientist, I apply a unique mix of technical programming and analytical skills. In software development, my expertise lies in:
 
