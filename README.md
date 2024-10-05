@@ -5,19 +5,11 @@
 <!--- just
 "You know who's a powerhouse data scientist? The one with software engineering chops—a coding gladiator, with both intellectual vigor and athletic muscle, embodying the fusion of tech savvy and raw physical discipline." - Eashan Joshi --->
 
-As a hybrid Software Engineer and Data Scientist, I apply a unique mix of technical programming and analytical skills. In software development, my expertise lies in:
+As a Software Engineer and Data Scientist, I bring a unique combination of coding expertise and analytical thinking to solve complex business challenges. With a solid programming foundation, I've resolved 30+ developmental defects and 50+ client issues, enhancing software performance. My transition to Data Science was driven by curiosity, where I mastered data analysis, machine learning, and visualization, achieving a 10% improvement in client data visualization and retrieval times through SQL optimization.
 
-🔧 Programming Languages: Python, Java, .NET, R, SQL, C#; familiar with C++ and JavaScript.
+My skill set includes Python, R, SQL, Java, .NET, C#, C++, as well as frameworks like TensorFlow, PyTorch, and Scikit-Learn. I also work with tools such as Pandas, Apache Spark, Tableau, and PostgreSQL. Beyond technical skills, my strength lies in communicating complex findings to diverse stakeholders. I'm a fitness enthusiast, soccer player, and singer, adding a unique perspective to my problem-solving approach. Let's connect and explore how I can contribute to your data-driven goals.
 
-Transitioning to Data Science, I specialize in:
-
-🔬 ML Libraries: Skilled in Python-based libraries like Scikit-learn, Numpy, Pandas, and Matplotlib; knowledgeable in TensorFlow, NLTK, OpenCV; proficient with Tableau and AWS Services for data visualization and cloud computing.
-
-I have a proven track record in troubleshooting software issues, enhancing performance, and extracting actionable insights from complex datasets. My communication skills enable me to articulate technical concepts to varied audiences effectively.
-
-In addition to my technical skills, my interests in fitness, soccer, singing, and psychology add depth to my professional interactions, fostering empathy and understanding.
-
-📧 Connect with me for innovative solutions in data-driven projects: ej2637@rit.edu | eashanj4@gmail.com
+📧 Connect with me for innovative solutions in data-driven projects: eashan.joshi.rit@gmail.com | ej2637@rit.edu 
 
 ---
 
