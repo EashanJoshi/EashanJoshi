@@ -1,6 +1,6 @@
 # Eashan Joshi
 
-**`Digital Craftsman (Data Scientist/Software Developer/Fitness enthusiast)`**
+**`Data & Software`**
 
 <!--- just
 "You know who's a powerhouse data scientist? The one with software engineering chops—a coding gladiator, with both intellectual vigor and athletic muscle, embodying the fusion of tech savvy and raw physical discipline." - Eashan Joshi --->
