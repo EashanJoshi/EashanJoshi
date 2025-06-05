@@ -1,13 +1,13 @@
 # Eashan Joshi
 
-**`Data & Software`**
+**`Software Engineer`**
 
 <!--- just
 "You know who's a powerhouse data scientist? The one with software engineering chops—a coding gladiator, with both intellectual vigor and athletic muscle, embodying the fusion of tech savvy and raw physical discipline." - Eashan Joshi --->
 
-As a Software Engineer and Data Scientist, I bring a unique combination of coding expertise and analytical thinking to solve complex business challenges. With a solid programming foundation, I've resolved 30+ developmental defects and 50+ client issues, enhancing software performance. My transition to Data Science was driven by curiosity, where I mastered data analysis, machine learning, and visualization, achieving a 10% improvement in client data visualization and retrieval times through SQL optimization.
+I'm a Software Engineer with a strong foundation in backend development, distributed systems, and full-stack architecture. I’ve built and maintained production-grade systems using C#, .NET, Java, C++, Python, and SQL—resolving 80+ engineering and client issues across complex platforms. My work includes scalable APIs, financial systems, and low-latency trading infrastructure, with hands-on experience in containerization (Docker, Kubernetes), cloud services (AWS), and technologies like ASP.NET Core, React, and Neo4j.
 
-My skill set includes Python, R, SQL, Java, .NET, C#, C++, as well as frameworks like TensorFlow, PyTorch, and Scikit-Learn. I also work with tools such as Pandas, Apache Spark, Tableau, and PostgreSQL. Beyond technical skills, my strength lies in communicating complex findings to diverse stakeholders. I'm a fitness enthusiast, soccer player, and singer, adding a unique perspective to my problem-solving approach. Let's connect and explore how I can contribute to your data-driven goals.
+I take a product-driven approach to engineering, writing clean, efficient code that solves real-world business problems. From leading trust accounting platform development to optimizing trading strategies, I focus on performance, maintainability, and measurable user impact. Outside of work, I’m into fitness, soccer, and singing, creative outlets that keep me energized and focused.
 
 📧 Connect with me for innovative solutions in data-driven projects: eashan.joshi.rit@gmail.com | ej2637@rit.edu 
 
@@ -16,7 +16,7 @@ My skill set includes Python, R, SQL, Java, .NET, C#, C++, as well as frameworks
 ### Connect with me 
 
 [<img align="left" alt="EashanLinkedin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />][linkedin]
-### [<img align="left" alt="EashanInstagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+
 
 
 <br />
