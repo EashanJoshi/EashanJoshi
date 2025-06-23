@@ -5,11 +5,11 @@
 <!--- just
 "You know who's a powerhouse data scientist? The one with software engineering chops—a coding gladiator, with both intellectual vigor and athletic muscle, embodying the fusion of tech savvy and raw physical discipline." - Eashan Joshi --->
 
-I'm a Software Engineer with a strong foundation in backend development, distributed systems, and full-stack architecture. I’ve built and maintained production-grade systems using C#, .NET, Java, C++, Python, and SQL—resolving 80+ engineering and client issues across complex platforms. My work includes scalable APIs, financial systems, and low-latency trading infrastructure, with hands-on experience in containerization (Docker, Kubernetes), cloud services (AWS), and technologies like ASP.NET Core, React, and Neo4j.
+I'm a Software Engineer and AI Researcher with a strong background in backend development, distributed systems, and full-stack architecture. I've built and maintained production-grade systems using Python, C++, C#, Java, and PostgreSQL, resolving 80+ engineering and client issues across financial platforms, compliance tools, and AI research projects. My work spans scalable APIs, LLM-integrated RAG pipelines, and low-latency trading infrastructure, with hands-on experience in Docker, Kubernetes, AWS, PySpark, React, and Neo4j.
 
-I take a product-driven approach to engineering, writing clean, efficient code that solves real-world business problems. From leading trust accounting platform development to optimizing trading strategies, I focus on performance, maintainability, and measurable user impact. Outside of work, I’m into fitness, soccer, and singing, creative outlets that keep me energized and focused.
+I take a product-focused approach to engineering, writing clean, efficient code that delivers real-world impact. Whether leading backend efforts for trust accounting systems or optimizing prompt processing pipelines for GenAI tools, I prioritize performance, maintainability, and user experience. Outside of work, I stay sharp through soccer, lifting, and music, interests that keep me focused and creative.
 
-📧 Connect with me for innovative solutions in data-driven projects: eashan.joshi.rit@gmail.com | ej2637@rit.edu 
+📧 Connect with me: eashan.m.joshi@gmail.com | ej2637@g.rit.edu 
 
 ---
 
